@@ -1,0 +1,13 @@
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\bin\Debug\CSPanorama.dll
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\bin\Debug\CSPanorama.pdb
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\bin\Debug\Assembly-CSharp.dll
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\bin\Debug\ColossalManaged.dll
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\bin\Debug\ICities.dll
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\bin\Debug\UnityEngine.dll
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\bin\Debug\UnityEngine.UI.dll
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\bin\Debug\UnityEngine.xml
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\obj\Debug\CSPanorama.csprojResolveAssemblyReference.cache
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\obj\Debug\CSPanorama.dll
+C:\Users\liuzh\documents\visual studio 2015\Projects\CSPanorama\CSPanorama\obj\Debug\CSPanorama.pdb
